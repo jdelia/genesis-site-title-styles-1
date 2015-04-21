@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a span tag around each word in the site title for separate styling with css.
 
-Read more about why we created the plugin here: ‘http://savvyjackiedesigns.com/genesis-site-title-styles-plugin'
+Read more about why we created the plugin here: `http://savvyjackiedesigns.com/genesis-site-title-styles-plugin/`.
 
 == Installation ==
 
