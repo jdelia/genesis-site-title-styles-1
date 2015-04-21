@@ -14,12 +14,25 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin adds a span tag around each word in the Genesis site title for separate styling with css. Styling is done with the nth-child() selector. 
 
 Style each word separately:
+
 Style the first word:
-.site-title span:nth-child(1) { add your styles here }
+
+.site-title span:nth-child(1) { 
+	add your styles here 
+}
+
 Style the second word:
-.site-title span:nth-child(2) { add your styles here }
+
+.site-title span:nth-child(2) { 
+	add your styles here 
+}
+
 Style the third word:
-.site-title span:nth-child(3) { add your styles here }
+
+.site-title span:nth-child(3) { 
+	add your styles here 
+}
+
 
 Read more about why we created the plugin here along with examples of how to style them: `http://savvyjackiedesigns.com/genesis-site-title-styles-plugin/`.
 
