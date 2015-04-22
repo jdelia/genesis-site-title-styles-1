@@ -1,6 +1,6 @@
 ===Genesis Site Title Styles===
 
-Contributors: JDELIA, cdils
+Contributors: JDELIA, txgspice, cdils
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNJE45UUSUDB6
 Tags: css, site title, genesis, genesiswp, studiopress
 Requires at least: 3.8.0
