@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: css, site title, genesis, genesiswp, studiopress
 Requires at least: 3.8.0
 Tested up to: 4.2.2
-Stable tag: 1.01
+Stable tag: 1.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,9 @@ Above example would change the color and font weight of the second word.
 
 
 == Changelog ==
+= 1.10 =
+Replaced logic to recognize words that contain special characters. The plugin now will wrap a span tag around everything separated by a space. Any extra spaces are removed.
+For example: “BLANCO PRÍBAR®   INC.” would become “BLANCO PRÍBAR® INC.” and then wrapped in span tag. “<span>BLANCO</span> <span>PRÍBAR®</span> <span>INC.</span>”
 = 1.01 =
 Edited instructions.
 = 1.0 =
