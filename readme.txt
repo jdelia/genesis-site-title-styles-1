@@ -78,7 +78,7 @@ Replaced logic to recognize words that contain special characters. The plugin no
 
 For example: “BLANCO PRÍBAR®&nbsp;&nbsp;&nbsp;INC.”
  
-would become “BLANCO PRÍBAR® INC.” and then wrapped in span tag. 
+will become “BLANCO PRÍBAR® INC.” and then each word is wrapped in a span tag. 
 
 = 1.01 =
 Edited instructions.
