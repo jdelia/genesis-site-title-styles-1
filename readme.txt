@@ -76,7 +76,8 @@ Above example would change the color and font weight of the second word.
 = 1.10 =
 Replaced logic to recognize words that contain special characters. The plugin now will wrap a span tag around everything separated by a space. Any extra spaces are removed.
 
-For example: “BLANCO PRÍBAR®&nbsp;&nbsp;&nbsp;INC.” 
+For example: “BLANCO PRÍBAR®&nbsp;&nbsp;&nbsp;INC.”
+ 
 would become “BLANCO PRÍBAR® INC.” and then wrapped in span tag. 
 
 = 1.01 =
