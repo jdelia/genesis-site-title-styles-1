@@ -2,7 +2,7 @@
 
 Contributors: JDELIA, txgspice, cdils
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNJE45UUSUDB6
-Tags: css, site title, genesis, genesiswp, studiopress
+Tags: genesis, css, site title, logo, span, custom, font, color, styles, fancy, genesis framework, genesiswp, studiopress
 Requires at least: 3.8.0
 Tested up to: 4.2.2
 Stable tag: 1.10
