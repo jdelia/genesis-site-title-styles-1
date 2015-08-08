@@ -4,7 +4,7 @@ Contributors: JDELIA, txgspice, cdils
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNJE45UUSUDB6
 Tags: genesis, css, site title, logo, span, custom, font, color, styles, fancy, genesis framework, genesiswp, studiopress
 Requires at least: 3.8.0
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: 1.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
