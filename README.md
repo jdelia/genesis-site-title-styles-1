@@ -40,8 +40,8 @@ Then go to your Plugins screen and click __Activate__.
 
 ## Credits
 
-Built by [Jackie D'Elia](https://twitter.com/savvyjackie)
-Copyright 2015 [Jackie D'Elia](http://savvyjackiedesigns.com/) and [Ginger Coolidge](https://twitter.com/gscoolidge)
+Built by [Jackie D'Elia](https://twitter.com/jdelia)
+Copyright 2015 [Jackie D'Elia](http://jackiedelia.com/) and [Ginger Coolidge](https://twitter.com/gscoolidge)
 
 Props to [Ginger Coolidge](https://twitter.com/gscoolidge) for the idea for the plugin and testing.
 
