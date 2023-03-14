@@ -1,7 +1,6 @@
 ===Genesis Site Title Styles===
 
 Contributors: JDELIA, txgspice, cdils
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNJE45UUSUDB6
 Tags: genesis, css, site title, logo, span, custom, font, color, styles, fancy, genesis framework, genesiswp, studiopress
 Requires at least: 3.8.0
 Tested up to: 4.3.0
@@ -34,7 +33,6 @@ Style the third word:
 }
 
 
-Read more about why we created the plugin here along with examples of how to style them: `http://savvyjackiedesigns.com/genesis-site-title-styles-plugin/`.
 
 == Installation ==
 
